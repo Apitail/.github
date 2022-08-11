@@ -7,7 +7,7 @@ Apitail est une application web permettant d'effectuer une gestion des stocks da
 ### 🗝 Key features
 
 1. Création de produits avec variantes
-2. Création de documents multi-magasin (Commandes fournisseurs, retours fournisseurs, transferts entre magasins)
+2. Création de documents multi-magasins (Commandes fournisseurs, retours fournisseurs, transferts entre magasins)
 3. Gestion des mouvements de stock
 4. Synchronisation avec SAP Business One (https://github.com/Apitail/bonin-ruby)
 5. Equilibrage de stock automatique (https://github.com/Apitail/stock_balancing)
